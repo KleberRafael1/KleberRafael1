@@ -1,10 +1,49 @@
-👋 Hi, I’m Kleber Rafael  
-👀 I’m passionate about technology and development  
-🌱 Currently learning front-end development (HTML, CSS, JavaScript, React)  
-💞️ Always open to collaborate and learn with fellow students  
-📫 Reach me at: krafael26@gmail.com  
-😄 Pronouns: He/Him — and yes, a bit crazy 😜  
-⚡ Fun facts: I love reading, cooking, coding, and gaming!
+# 👋 Olá, eu sou Kleber Rafael
+
+💻 Desenvolvedor em constante evolução, apaixonado por tecnologia, programação e construção de soluções digitais.
+
+Nos últimos anos venho me dedicando intensamente ao estudo e à prática de **desenvolvimento web, inteligência artificial e tecnologia aplicada**, sempre buscando transformar conhecimento em projetos reais.
+
+---
+
+## 🚀 Sobre mim
+
+- 📚 Aproximadamente **1000 horas de estudo** em tecnologia e desenvolvimento
+- 💻 **30+ repositórios e projetos práticos** publicados no GitHub
+- 🌐 Projetos com **deploy em produção**
+- 🧠 Aprendizado contínuo e curiosidade por novas tecnologias
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+HTML • CSS • JavaScript • React  
+Git • GitHub • Vercel  
+APIs • Fundamentos de SEO
+
+---
+
+## 📈 Jornada de aprendizado
+
+**2024** — Fundamentos de programação e desenvolvimento web  
+**2025** — Projetos práticos e desenvolvimento front-end  
+**2026** — Inteligência Artificial, automação e soluções digitais
+
+---
+
+## 🤝 Colaboração
+
+Gosto de trocar conhecimento, colaborar em projetos e aprender com a comunidade de desenvolvedores.
+
+---
+
+## 📫 Contato
+
+📧 **krafael26@gmail.com**
+
+---
+
+⭐ *Consistência supera intensidade. Pequenos passos todos os dias constroem grandes jornadas.*
 
 <!---
 KleberRafael1/KleberRafael1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
