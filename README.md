@@ -8,8 +8,8 @@ Nos últimos anos venho me dedicando intensamente ao estudo e à prática de **d
 
 ## 🚀 Sobre mim
 
-- 📚 Aproximadamente **1000 horas de estudo** em tecnologia e desenvolvimento
-- 💻 **30+ repositórios e projetos práticos** publicados no GitHub
+- 📚 Aproximadamente **2000 horas de estudo** em tecnologia e desenvolvimento
+- 💻 **50+ repositórios e projetos práticos** publicados no GitHub
 - 🌐 Projetos com **deploy em produção**
 - 🧠 Aprendizado contínuo e curiosidade por novas tecnologias
 
