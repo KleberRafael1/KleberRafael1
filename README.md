@@ -37,7 +37,7 @@
 • n8n • LLMs • Prompt Engineering • Agentes de IA • RAG
 
 - Dados
-• Excel • Analise de dados • Dashboards
+• Excel • Análise de dados • Dashboards
 
 ---
 
