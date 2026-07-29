@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou Kleber Rafael
 
-💻 Desenvolvedor em constante evolução, apaixonado por tecnologia, programação e construção de soluções digitais.
-
-Nos últimos anos venho me dedicando intensamente ao estudo e à prática de **desenvolvimento web, inteligência artificial e tecnologia aplicada**, sempre buscando transformar conhecimento em projetos reais.
+💻 Desenvolvedor focado em soluções digitais, automação e Inteligência Artificial aplicada a negócios, unindo tecnologia e experiência prática em processos fiscais e administrativos.
 
 ---
 
@@ -15,18 +13,57 @@ Nos últimos anos venho me dedicando intensamente ao estudo e à prática de **d
 
 ---
 
+## 🧠 Áreas de interesse
+
+• Inteligência Artificial aplicada
+• Agentes de IA
+• Automação de processos
+• Desenvolvimento Web
+• APIs e integrações
+• Análise de dados
+• Tecnologia aplicada ao negócio
+
+---
+
 ## 🛠️ Tecnologias e ferramentas
 
-HTML • CSS • JavaScript • React  
-Git • GitHub • Vercel  
-APIs • Fundamentos de SEO
+Frontend
+HTML • CSS • JavaScript • React
+
+Backend e Integrações
+Python • FastAPI • REST APIs • JSON
+
+Automação e IA
+n8n • LLMs • Prompt Engineering • Agentes de IA
+
+Ferramentas
+Git • GitHub • Vercel • APIs externas
+
+---
+
+## 🚀 Projetos em destaque
+
+🤖 Agente Fiscal IA
+Agente inteligente para análise e apoio em rotinas fiscais.
+
+⚙️ Automações n8n
+Workflows para integração de APIs, planilhas e comunicação automática.
+
+🎬 ClipMaker AI
+Aplicação de IA para identificação automática de momentos relevantes em vídeos.
+
+🎸 Rock Legends
+Álbum digital full stack com FastAPI e frontend interativo.
+
+📄 ATS Resume Builder
+Gerador de currículos compatíveis com sistemas ATS.
 
 ---
 
 ## 📈 Jornada de aprendizado
 
 **2024** — Fundamentos de programação e desenvolvimento web  
-**2025** — Projetos práticos e desenvolvimento front-end  
+**2025** — Projetos práticos e desenvolvimento Front-end  
 **2026** — Inteligência Artificial, automação e soluções digitais
 
 ---
