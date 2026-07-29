@@ -27,17 +27,17 @@
 
 ## 🛠️ Tecnologias e ferramentas
 
-- Desenvolvimento Web:
-• HTML • CSS • JavaScript • React • Python • FastAPI 
+💻 Desenvolvimento Web
+HTML • CSS • JavaScript • React • Python • FastAPI
 
-- APIs e Integrações:
-• REST APIs • JSON • Webhooks • Serviços Externos
+🔌 APIs e Integrações
+REST APIs • JSON • Webhooks • Serviços externos
 
-- Automação e Inteligência Artificial:
-• n8n • LLMs • Prompt Engineering • Agentes de IA • RAG
+🤖 Automação e Inteligência Artificial
+n8n • LLMs • Prompt Engineering • Agentes de IA • RAG
 
-- Dados:
-• Excel • Análise de dados • Dashboards
+📊 Dados
+Excel • Análise de dados • Dashboards
 
 ---
 
@@ -63,8 +63,8 @@ Gerador de currículos compatíveis com sistemas ATS.
 ## 📈 Jornada de aprendizado
 
 **2024** — Fundamentos de programação e desenvolvimento web  
-**2025** — Projetos práticos e desenvolvimento Front-end  
-**2026** — Inteligência Artificial, automação e soluções digitais
+**2025** — Construção de projetos práticos, Front-end e aplicações interativas  
+**2026** — Inteligência Artificial, automação, agentes e soluções digitais aplicadas a negócios
 
 ---
 
