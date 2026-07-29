@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Kleber Rafael
 
-💻 Desenvolvedor focado em soluções digitais, automação e Inteligência Artificial aplicada a negócios, unindo tecnologia e experiência prática em processos fiscais e administrativos.
+💻 Desenvolvedor Full Stack focado em soluções digitais, automação e Inteligência Artificial aplicada a negócios, unindo tecnologia e experiência prática em processos fiscais e administrativos.
 
 ---
 
@@ -27,17 +27,17 @@
 
 ## 🛠️ Tecnologias e ferramentas
 
-Frontend
-HTML • CSS • JavaScript • React
+- Desenvolvimento Web
+• HTML • CSS • JavaScript • React • Python • FastAPI 
 
-Backend e Integrações
-Python • FastAPI • REST APIs • JSON
+- APIs e Integrações
+• REST APIs • JSON • Webhooks • Serviços Externos
 
-Automação e IA
-n8n • LLMs • Prompt Engineering • Agentes de IA
+- Automação e Inteligência Artificial
+• n8n • LLMs • Prompt Engineering • Agentes de IA • RAG
 
-Ferramentas
-Git • GitHub • Vercel • APIs externas
+- Dados
+• Excel • Analise de dados • Dashboards
 
 ---
 
