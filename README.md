@@ -27,35 +27,35 @@
 
 ## 🛠️ Tecnologias e ferramentas
 
-💻 Desenvolvimento Web
+💻 Desenvolvimento Web \
 HTML • CSS • JavaScript • React • Python • FastAPI
 
-🔌 APIs e Integrações
+🔌 APIs e Integrações \
 REST APIs • JSON • Webhooks • Serviços externos
 
-🤖 Automação e Inteligência Artificial
+🤖 Automação e Inteligência Artificial \
 n8n • LLMs • Prompt Engineering • Agentes de IA • RAG
 
-📊 Dados
+📊 Dados \
 Excel • Análise de dados • Dashboards
 
 ---
 
 ## 🚀 Projetos em destaque
 
-🤖 Agente Fiscal IA:
+🤖 Agente Fiscal IA \
 Agente inteligente para análise e apoio em rotinas fiscais.
 
-⚙️ Automações n8n: 
+⚙️ Automações n8n \
 Workflows para integração de APIs, planilhas e comunicação automática.
 
-🎬 ClipMaker AI: 
+🎬 ClipMaker AI \
 Aplicação de IA para identificação automática de momentos relevantes em vídeos.
 
-🎸 Rock Legends: 
+🎸 Rock Legends \
 Álbum digital full stack com FastAPI e frontend interativo.
 
-📄 ATS Resume Builder:
+📄 ATS Resume Builder \
 Gerador de currículos compatíveis com sistemas ATS.
 
 ---
