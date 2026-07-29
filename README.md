@@ -15,13 +15,13 @@
 
 ## 🧠 Áreas de interesse
 
-• Inteligência Artificial aplicada
-• Agentes de IA
-• Automação de processos
-• Desenvolvimento Web
-• APIs e integrações
-• Análise de dados
-• Tecnologia aplicada ao negócio
+- Inteligência Artificial aplicada
+- Agentes de IA
+- Automação de processos
+- Desenvolvimento Web
+- APIs e integrações
+- Análise de dados
+- Tecnologia aplicada ao negócio
 
 ---
 
